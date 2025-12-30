@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$basetexture "models\infected\bomber\Tex_0705_3"
+$phong 1
+$halflambert 0
+$diffuseexp 1
+$phongboost 1
+$phongfresnelranges "[.2 0.5 5]"
+$bumpmap "models\infected\bomber\Tex_0705_4"
+$ambientocclusion 1
+}
